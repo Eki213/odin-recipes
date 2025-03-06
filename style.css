@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(46, 47, 70);
+    color: white;
+}
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: aqua;
+}
+
+li a {
+    color: orange;
+    background-color: rgb(46, 47, 70);
+}
+
+a {
+    color: black;
+    background-color: white;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.home-title {
+    color: red;
+    font-size: 40px;
+}
