@@ -28,6 +28,7 @@ img {
 }
 
 .home-title {
-    color: red;
+    color: rgb(185, 9, 9);
     font-size: 40px;
+    text-align: center;
 }
